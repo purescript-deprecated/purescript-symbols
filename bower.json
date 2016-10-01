@@ -1,0 +1,15 @@
+{
+  "name": "purescript-symbols",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-unsafe-coerce": "^1.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0"
+  }
+}
