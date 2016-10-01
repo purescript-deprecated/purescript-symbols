@@ -6,6 +6,11 @@
     "bower_components",
     "output"
   ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purescript/purescript-symbols.git"
+  },
   "dependencies": {
     "purescript-unsafe-coerce": "^1.0.0"
   },
