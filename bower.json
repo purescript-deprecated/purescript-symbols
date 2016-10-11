@@ -13,8 +13,5 @@
   },
   "dependencies": {
     "purescript-unsafe-coerce": "^1.0.0"
-  },
-  "devDependencies": {
-    "purescript-psci-support": "^1.0.0"
   }
 }
