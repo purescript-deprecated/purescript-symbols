@@ -12,6 +12,7 @@
     "url": "git://github.com/purescript/purescript-symbols.git"
   },
   "dependencies": {
-    "purescript-unsafe-coerce": "^1.0.0"
+    "purescript-unsafe-coerce": "^2.0.0",
+    "purescript-prelude": "^2.1.0"
   }
 }
