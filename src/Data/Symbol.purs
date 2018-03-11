@@ -7,6 +7,7 @@ module Data.Symbol
 
 import Prelude ((<>))
 import Unsafe.Coerce (unsafeCoerce)
+import Prim.TypeError (TypeConcat)
 
 -- | A value-level proxy for a type-level symbol.
 data SProxy (sym :: Symbol) = SProxy
