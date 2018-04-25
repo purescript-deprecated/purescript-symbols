@@ -1,18 +1,5 @@
-# purescript-symbols
+# DEPRECATED
 
-[![Latest release](http://img.shields.io/github/release/purescript/purescript-symbols.svg)](https://github.com/purescript/purescript-symbols/releases)
-[![Build status](https://travis-ci.org/purescript/purescript-symbols.svg?branch=master)](https://travis-ci.org/purescript/purescript-symbols)
+The library was merged into [`purescript-prelude`](https://github.com/purescript/purescript-prelude).
 
-Utilities for working with type-level strings.
-
-This library requires version 0.10 of the PureScript compiler or later.
-
-## Installation
-
-```
-bower install purescript-symbols
-```
-
-## Documentation
-
-Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-symbols).
+The most recent [v3.0.0 release](https://github.com/purescript/purescript-symbols/releases/tag/v3.0.0) will continue to work for older libraries that still depend on it, although is incompatible with PureScript 0.12 and newer.
